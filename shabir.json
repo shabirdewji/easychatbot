@@ -1,0 +1,7 @@
+{"intents": [
+{"tag": "Music",   
+    "patterns": ["what is your favourite music","what songs do you like","favourite singer"],
+    "responses":  ["Music: oldies (60's onwards)"]},
+{"tag": "Author",  
+    "patterns": ["who is your favourite author","favourite writer","favourite book"],
+    "responses":  ["not much of a reader, read a lot as a kid"]}]}     
